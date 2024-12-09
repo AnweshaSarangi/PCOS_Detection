@@ -28,7 +28,7 @@ The project utilizes the following technologies and libraries:
 - GitHub: For version control and collaboration.
 
 ### Installation 
- 1. Clone the repository: `https://github.com/AnweshaSarangi/PCOS_Detection.git)](https://github.com/AnweshaSarangi/PCOS_Detection.git`
+ 1. Clone the repository: `https://github.com/AnweshaSarangi/PCOS_Detection.git`
  2. Navigate to the project directory: `cd PCOS_Detection`
  3. Install dependencies: `pip install -r requirements.txt`
 
